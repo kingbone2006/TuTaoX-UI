@@ -1,7 +1,7 @@
 **Sao Chép Hết Dán Vào VPS :**
 
 - 1 Dòng lệnh cập nhật ubuntu , tạo X-UI mở các port liên quan , cài Speestest VPS , Chú ý dòng fix lổi nếu lệnh x-ui không hiện lên
-
+1. sudo su
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/caidatvps.sh)
 ```
